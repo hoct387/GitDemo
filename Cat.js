@@ -2,4 +2,4 @@ function Cat{
 	
 }
 
-module.exports = Dog
+module.exports = Cat;
